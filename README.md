@@ -1,4 +1,6 @@
 ## Hi there 👋
+<h3 align="center">Software Engineer | Full Stack | AI </h3> 
+<p align="center"><a href="https://afnan.elements.red/" target="_blank">My portfolio</p>
 
 <!--
 **seAfnan/seAfnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
