@@ -1,6 +1,10 @@
-## Hi there 👋
-<h3 align="center">Software Engineer | AI | JS </h3> 
-<p align="center"><a href="https://afnan.elements.red/" target="_blank">My portfolio</p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/seAfnan/count.svg" alt="hit counter" align="center">
+  <br/><br/>
+  <samp>
+    <a href="https://afnan.elements.red/" target="_blank">Portfolio</a>
+  </samp>
+</div>
 
 <!--
 **seAfnan/seAfnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
